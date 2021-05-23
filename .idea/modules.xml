@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Eureka-Server/Eureka-Server.iml" filepath="$PROJECT_DIR$/Eureka-Server/Eureka-Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Location-Service/Location-Service.iml" filepath="$PROJECT_DIR$/Location-Service/Location-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Sample-Spring-Cloud-Gateway.iml" filepath="$PROJECT_DIR$/.idea/Sample-Spring-Cloud-Gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-Cloud-Gateway/Spring-Cloud-Gateway.iml" filepath="$PROJECT_DIR$/Spring-Cloud-Gateway/Spring-Cloud-Gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/items/microservices.iml" filepath="$PROJECT_DIR$/items/microservices.iml" />
+    </modules>
+  </component>
+</project>
